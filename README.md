@@ -14,6 +14,7 @@
 
 - I am a Junior Full Stack Developer.
 - I am captivated by the development, gaining experience and working for the result is the main thing for me.
+- How to reach me: agnikava@gmail.com
 
 ---
 
